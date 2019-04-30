@@ -1,22 +1,20 @@
 @font-face {
   font-family: TiemposText;
-  src: url("./fonts/TiemposTextWeb-Semibold.woff") format("woff");
+  src: url("./.fonts/TiemposTextWeb-Semibold.woff") format("woff");
 }
 @font-face {
   font-family: Apercu;
-  src: url("./fonts/Apercu.woff") format("woff");
+  src: url("../fonts/Apercu.woff") format("woff");
 }
 html {
   box-sizing: border-box;
-  font-size: 12px;
+  font-size: 13.5px;
 }
 body {
   font-family: Apercu, sans-serif;
   font-variant: common-ligatures slashed-zero;
   color: #111;
-  margin-left: 2rem;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-left: 1.8rem;
 }
 h1 {
   font-family: TiemposText, serif;
