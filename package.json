@@ -1,13 +1,13 @@
 {
   "name": "cv",
   "version": "0.0.2",
-  "main": "general/v0.0.1/index.html",
+  "main": "index.html",
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "parcel general/v0.0.1/index.html"
+    "start": "index.html"
   },
   "dependencies": {
-    "parcel-bundler": "1.12.3"
+    "parcel-bundler": "1.12.4"
   }
 }
